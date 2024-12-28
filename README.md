@@ -37,13 +37,7 @@ Here are some ideas to get you started:
 ## 🔗 Find me on LinkedIn
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tej-m-bhat-613740293)
-### 🛠️ My Skills
 
-![HTML](https://img.icons8.com/color/48/000000/html-5.png)
-![CSS](https://img.icons8.com/color/48/000000/css3.png)
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![Java](https://img.icons8.com/color/48/000000/java.png)
-![C](https://img.icons8.com/color/48/000000/c-programming.png)
 
 
 
