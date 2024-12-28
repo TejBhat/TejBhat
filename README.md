@@ -34,5 +34,9 @@ Here are some ideas to get you started:
 ### 🖥️ Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TejBhat&layout=compact&hide=html&langs_count=5)
+## 🔗 Find me on LinkedIn
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tej-m-bhat-613740293)
+
 
 
