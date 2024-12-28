@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 [![Visual Studio Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 ### 🖥️ Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&hide=html&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TejBhat&layout=compact&hide=html&langs_count=5)
 
 
