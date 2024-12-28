@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🛠️ Skills
+
+- **Programming Languages**: JavaScript, Java, C
+- **Web Development**: HTML, CSS
+- **Tools**: Git, GitHub
