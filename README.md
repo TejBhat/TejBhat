@@ -1,10 +1,5 @@
 # Hi there, I'm Tej M Bhat! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=TejBhat&color=blue)
-
-
-
-
 
 ## My Skills
 
