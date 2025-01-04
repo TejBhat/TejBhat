@@ -2,7 +2,7 @@
 
 ## About Me
 
-I like to walk, think, code 
+I like to Walk, Think, Code 
 
 
 ## My Skills
