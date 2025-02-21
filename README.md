@@ -8,10 +8,10 @@ I like to walk, think, and code.
 ## My Skills
 
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
+  ![Skill Icons](https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git)
+![More Skill Icons](https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,java,mysql)
+
+
 
 
 
