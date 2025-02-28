@@ -8,7 +8,7 @@ I like to walk, think, and code.
 ## My Skills
 
 
-  ![Skill Icons](https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,tailwind,git,androidstudio)
+  ![Skill Icons](https://skillicons.dev/icons?i=bootstrap,html,css,tailwind,git,androidstudio)
 ![More Skill Icons](https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,java,mysql)
 
 
