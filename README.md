@@ -1,6 +1,6 @@
 # Hi there, I'm Tej M Bhat! 👋
 
-## About Me
+## About Me:
 
 I like to walk, think, and code. 
 
