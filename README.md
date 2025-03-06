@@ -27,10 +27,6 @@ I like to walk, think, and code.
 
 
 
-## Support
 
-If you'd like to support my work, you can:
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/TejBhat)
 
 Thank you for visiting my profile! Have a great day! 😊
