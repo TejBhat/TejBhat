@@ -1,8 +1,5 @@
 # Hi there, I'm Tej M Bhat! 👋
 
-## About Me:
-
-I like to walk, think, and code. 
 
 
 ## My Skills:
