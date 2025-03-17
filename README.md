@@ -26,4 +26,4 @@
 
 
 
-Thank you for visiting my profile! Have a great day! 😊
+Thank you for visiting my profile! Have a great day! 
