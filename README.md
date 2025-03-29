@@ -1,4 +1,4 @@
-# Hi there, I'm Tej M Bhat! 👋
+# Hi there, I'm Tej M Bhat! 
 
 
 
