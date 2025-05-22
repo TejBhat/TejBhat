@@ -5,7 +5,7 @@
 ## My Skills:
 
 
-  ![Skill Icons](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,git,androidstudio)
+  ![Skill Icons](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,git,androidstudio,goLang)
 ![More Skill Icons](https://skillicons.dev/icons?i=nodejs,express,mongodb,python,java,mysql,firebase)
 
 
