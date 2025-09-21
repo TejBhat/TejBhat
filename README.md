@@ -7,7 +7,7 @@
 
 ## 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TejMBhat&layout=compact&theme=tokyonight&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TejBhat&layout=compact&theme=tokyonight&langs_count=8)
 
 ## Connect with Me:
 
