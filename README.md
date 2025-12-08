@@ -5,9 +5,6 @@
 ![Skill Icons](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,git,androidstudio)
 ![More Skill Icons](https://skillicons.dev/icons?i=nodejs,express,mongodb,python,java,mysql,firebase)
 
-## 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TejBhat&layout=compact&theme=tokyonight&langs_count=8)
 
 ## Connect with Me:
 
