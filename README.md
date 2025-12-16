@@ -6,7 +6,7 @@
 ![More Skill Icons](https://skillicons.dev/icons?i=nodejs,express,mongodb,python,java,mysql,firebase)
 ### 🧑‍💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TejBhat&layout=compact)
 
 
 
