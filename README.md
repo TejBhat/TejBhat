@@ -1,2 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?TejBhat=anuraghazra&langs_count=8)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TejBhat&layout=compact&theme=tokyonight)
